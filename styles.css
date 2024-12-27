@@ -1,9 +1,9 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif; 
     margin: 0;
     padding: 0;
     text-align: center;
-    background: linear-gradient(135deg, #FFB6C1, #D8BFD8);
+    background: linear-gradient(135deg, #D8BFD8, #D8BFD8); 
     overflow: hidden;
 }
 
@@ -43,7 +43,7 @@ body {
 #play-music {
     padding: 15px 30px;
     font-size: 1.5em;
-    background-color: #FF6F61;
+    background-color: #FF6F61; 
     color: white;
     border: none;
     border-radius: 10px;
@@ -80,10 +80,11 @@ body {
 }
 
 header {
-    background: linear-gradient(90deg, #FF6F61, #DE6262);
+    background: linear-gradient(90deg, #D8BFD8, #D8BFD8); 
     color: white;
     padding: 20px 0;
     font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
 }
 
 .panda-container {
@@ -130,7 +131,7 @@ header {
 }
 
 footer {
-    background: linear-gradient(90deg, #DE6262, #FF6F61);
+    background: linear-gradient(90deg, #D8BFD8, #D8BFD8); 
     color: white;
     padding: 10px 0;
     font-size: 0.9em;
